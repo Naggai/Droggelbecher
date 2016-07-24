@@ -1,0 +1,17 @@
+b{
+	color:red;
+	font-size:20px;
+	border:1px solid #DDD;
+	padding: 1em;
+}
+
+#headding_1{
+	font-size: 100px;
+}
+#headding_2{
+	font-size: 20px;
+}
+
+.headding{
+	border: 1px solid #DDD;
+}
